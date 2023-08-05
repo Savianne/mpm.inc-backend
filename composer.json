@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3",
+        "hybridauth/hybridauth": "^3.7"
+    }
+}
